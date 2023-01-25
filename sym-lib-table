@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name RCAPhono)(type Legacy)(uri /home/mark/KicadLibraries/PJRAN1X1U02AUX.lib)(options "")(descr "phono audio RCA"))
+)
